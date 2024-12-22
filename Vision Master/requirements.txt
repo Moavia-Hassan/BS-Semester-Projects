@@ -1,0 +1,6 @@
+opencv-python
+numpy
+Pillow
+python-resize-image
+matplotlib
+opencv-contrib-python
