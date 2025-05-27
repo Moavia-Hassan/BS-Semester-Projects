@@ -11,7 +11,7 @@ This project involves various image processing operations implemented using Pyth
 - [Moavia Hassan](https://github.com/Moavia-Hassan)
 
 ## Prerequisites
-- Python 3.x
+- Python 3.10+
 - OpenCV
 - tkinter
 - numpy
